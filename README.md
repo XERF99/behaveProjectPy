@@ -16,8 +16,8 @@ Para instalar las dependencias necesarias, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/XERF99/.git
-    cd 
+    git clone https://github.com/XERF99/behaveProjectPy.git
+    cd behaveProjectPy
     ```
 
 2. Crea un entorno virtual y actívalo:

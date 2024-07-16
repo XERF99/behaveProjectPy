@@ -1,0 +1,25 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Robot Framework
+output.xml
+report.html
+log.html
+*.robot.py
+
+# IDEs de JetBrains
+.idea/
+*.iml
+*.iws
+
+# Misceláneos
+.DS_Store
+*.log

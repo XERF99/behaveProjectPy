@@ -1,4 +1,4 @@
-# Behave con Python y RobotFramework
+# Behave con Python y Selenium
 ### Autor: Francisco Rodríguez
 
 Este proyecto tiene como objetivo crear un ejemplo de como se utiliza behave junto con python para crear casos de prueba más completos y entendibles para el usuario no técnico.
